@@ -1,0 +1,21 @@
+img {
+    height: 2.5rem;
+}
+
+.header {
+    justify-content: center;
+    height: 10%;
+}
+
+span {
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    padding-left: 0.3rem;
+    padding-top: 1.2rem;
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: rgb(4, 5, 90);
+}
